@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">59160988_park</string>
+    <string name="slot1">slot1</string>
+    <string name="slot3">slot3</string>
+    <string name="slot2">slot2</string>
+    <string name="parking">Parking</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="license_plate">License Plate</string>
+    <string name="brand">Brand</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
